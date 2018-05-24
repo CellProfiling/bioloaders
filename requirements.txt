@@ -4,3 +4,7 @@ matplotlib
 pandas
 tqdm
 Pillow
+click
+bs4
+voluptuous
+errno
